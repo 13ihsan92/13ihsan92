@@ -47,7 +47,7 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 </a>
 <br>
 <a href="https://github.com/13ihsan92/13ihsan92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ihsan92&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="San's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ihsan92&show_icons=true&count_private=true&theme=github_dark" alt="San's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/13ihsan92/Security-Blue-Team">
