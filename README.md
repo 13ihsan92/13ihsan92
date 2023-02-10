@@ -43,15 +43,15 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/13ihsan92/13ihsan92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13ihsan92&theme=chartreuse-dark&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13ihsan92&theme=github_dark&langs_count=5" />
 </a>
 <br>
 <a href="https://github.com/13ihsan92/13ihsan92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ihsan92&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="San's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=13ihsan92&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="San's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/13ihsan92/Security-Blue-Team">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=Security-Blue-Team&theme=chartreuse-dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=Security-Blue-Team&theme=github_dark&show_icons=true" />
 </a>    
 
 <!-- links to social media icons -->
