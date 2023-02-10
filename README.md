@@ -50,7 +50,10 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 </a>
 <a href="https://github.com/13ihsan92/Security-Blue-Team">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=Security-Blue-Team&theme=github_dark&show_icons=true" />
-</a>    
+</a>
+<a href="https://github.com/13ihsan92/soc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=soc&theme=github_dark&show_icons=true" />
+</a>   
 
 <!-- links to social media icons -->
 
