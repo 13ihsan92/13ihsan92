@@ -4,9 +4,9 @@
 # Hello, folks! 👋
 
 My name is Muhammad Ihsan (san@NBA.stl~#) and I'm an Infrastructure & Security Enthusiast. I'm from Indonesia, living in Capital City and currently active on several community. You can find me on:
-- [![Telegram][1.1]][1]
-- [![Github][2.1]][2]
-- [![Linkedin][3.1]][3].
+1. [![Telegram][1.1]][1]
+2. [![Github][2.1]][2]
+3. [![Linkedin][3.1]][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?color=blue&label=OS&logo=kalilinux&logoColor=white&message=Kali+Linux)
