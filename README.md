@@ -4,14 +4,10 @@
 # Hello, folks! 👋
 
 My name is Muhammad Ihsan (san@NBA.stl~#) and I'm an Infrastructure & Security Enthusiast. I'm from Indonesia, living in Capital City and currently active on several community. You can find me on:
-
-
+<!-- 
 [![Telegram][1.1]][1]
-
-
 [![Github][2.1]][2]
-
-
+ -->
 [![Linkedin][3.1]][3]
 
 ## 🔧 Technologies & Tools
@@ -65,7 +61,7 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 <!-- links to social media icons -->
 
 [1.1]: https://img.shields.io/static/v1?color=blue&label=Telegram&logo=telegram&logoColor=white&message=ihsanus_zanshi 
-[2.1]: https://img.shields.io/static/v1?color=black&label=Github&logo=telegram&logoColor=white&message=13ihsan92 
+[2.1]: https://img.shields.io/static/v1?color=black&label=Github&logo=github&logoColor=white&message=13ihsan92 
 [3.1]: https://img.shields.io/static/v1?color=informational&label=Linkedin&logo=linkedin&logoColor=white&message=13ihsan92 
 
 
