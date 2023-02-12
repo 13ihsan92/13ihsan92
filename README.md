@@ -40,6 +40,9 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 
 [![Top Language][4.1]][4]
 [![Stats][5.1]][5]
+
+## ⭐ My Favorite Repository
+
 [![Repo: 13ihsan92/Security-Blue-Team][6.1]][6]
 [![Repo: 13ihsan92/soc][7.1]][7]
 
