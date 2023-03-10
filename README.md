@@ -44,6 +44,7 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 ## ⭐ Thanks For Support
 
 [![Donation][6.1]][6]
+![Saweria QR](saweria.png)
 
 <!--
 <a href="https://github.com/13ihsan92/13ihsan92">
