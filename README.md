@@ -41,10 +41,9 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 [![Top Language][4.1]][4]
 [![Stats][5.1]][5]
 
-## ⭐ My Favorite Repository
+## ⭐ Thanks For Support
 
-[![Repo: 13ihsan92/Security-Blue-Team][6.1]][6]
-[![Repo: 13ihsan92/soc][7.1]][7]
+[![Support Donation: Saweria][6.1]][6]
 
 <!--
 <a href="https://github.com/13ihsan92/13ihsan92">
@@ -74,19 +73,21 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 [2]: https://github.com/13ihsan92
 [3]: https://www.linkedin.com/in/13ihsan92
 
-<!-- links to stats & repo card icons -->
+<!-- links to stats icons -->
 
 [4.1]: https://github-readme-stats.vercel.app/api/top-langs/?username=13ihsan92&theme=github_dark&langs_count=5
 [5.1]: https://github-readme-stats.vercel.app/api?username=13ihsan92&show_icons=true&count_private=true&theme=github_dark&line_height=40 
-[6.1]: https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=Security-Blue-Team&theme=github_dark&show_icons=true
-[7.1]: https://github-readme-stats.vercel.app/api/pin/?username=13ihsan92&repo=soc&theme=github_dark&show_icons=true
 
-<!-- links to your stats & repo card accounts -->
+<!-- links to your stats accounts -->
 
 [4]: https://github.com/13ihsan92/13ihsan92
 [5]: https://github.com/13ihsan92/13ihsan92
-[6]: https://github.com/13ihsan92/Security-Blue-Team
-[7]: https://github.com/13ihsan92/soc
+
+<!-- links to donation icons -->
+[6]: https://saweria.co/widgets/qr?streamKey=bb5cab734c8469058f77201232b240df
+
+<!-- links to your donation accounts -->
+[6.1]: https://saweria.co/13ihsan92
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
