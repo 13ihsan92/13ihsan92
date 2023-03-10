@@ -84,10 +84,12 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 [5]: https://github.com/13ihsan92/13ihsan92
 
 <!-- links to donation icons -->
-[6]: https://saweria.co/widgets/qr?streamKey=bb5cab734c8469058f77201232b240df
+
+[6.1]: https://saweria.co/widgets/qr?streamKey=bb5cab734c8469058f77201232b240df
 
 <!-- links to your donation accounts -->
-[6.1]: https://saweria.co/13ihsan92
+
+[6]: https://saweria.co/13ihsan92
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
