@@ -43,7 +43,8 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 
 ## ⭐ Thanks For Support
 
-<a href="https://saweria.co/widgets/13ihsan92" title="Saweria">
+[![Donation][6.1]][6]
+<a href="https://saweria.co/13ihsan92" title="Saweria">
   <img style='max-width:100%' src='https://saweria.co/widgets/qr?streamKey=bb5cab734c8469058f77201232b240df'>
 </a>
 
@@ -84,6 +85,13 @@ If you are curious about my portfolio, you can visit the [Read.cv](https://read.
 
 [4]: https://github.com/13ihsan92/13ihsan92
 [5]: https://github.com/13ihsan92/13ihsan92
+
+<!-- links to stats icons -->
+
+[6.1]: https://img.shields.io/static/v1?color=darkgreen&label=Saweria&message=Support+Me+On+Saweria
+
+<!-- links to your stats accounts -->
+[6]: https://saweria.co/13ihsan92
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
